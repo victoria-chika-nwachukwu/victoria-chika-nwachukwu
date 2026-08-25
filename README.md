@@ -12,7 +12,6 @@ I enjoy working with data to find patterns, answer questions and turn informatio
 - **SQL:** Queries, Joins, Aggregations and Data Exploration
 - **Power BI:** Power Query, Data Modelling, DAX and Dashboards
 - **Python:** Pandas, NumPy and Matplotlib
-- **Tableau:** Data Visualization and Dashboards
 
 ## 📊 Projects
 
